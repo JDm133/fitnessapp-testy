@@ -1,0 +1,30 @@
+.register-page {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-title {
+  color: yellow;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.register-form input {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 20px;
+  width: 300px;
+}
+
+.register-btn {
+  padding: 15px 30px;
+  background-color: yellow;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
